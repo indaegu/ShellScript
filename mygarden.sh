@@ -1,5 +1,5 @@
 #!/bin/bash
-date >> a/home/ubuntu/mygarden/aa.txt
+date >> /home/ubuntu/mygarden/aaa.txt
 git add .
 git commit -m "test"
 git push
